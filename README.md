@@ -1,4 +1,4 @@
-# Multi-Threaded Simulation Project
+# Simple multithreaded sensor-actuator system
 
 ## Overview
 This project is a multi-threaded simulation of various tasks, implemented in C using `pthread` for concurrency. The application simulates multiple real-world processes running concurrently, including:
